@@ -1,0 +1,2 @@
+class Todos < ApplicationRecord
+end
